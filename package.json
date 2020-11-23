@@ -1,5 +1,5 @@
 {
-  "name": "awslambdaupdatenetsuite",
+  "name": "updatenetsuite",
   "version": "1.0.0",
   "description": "post nwo wocs to netsuite restlet",
   "main": "index.js",
