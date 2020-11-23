@@ -1,1 +1,2 @@
-# updateNetSuite
+# AWSLambdaNetSuiteWOC
+Handle NetSuite completions.

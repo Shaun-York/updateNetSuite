@@ -1,0 +1,14 @@
+{
+  "name": "awslambdaupdatenetsuite",
+  "version": "1.0.0",
+  "description": "post nwo wocs to netsuite restlet",
+  "main": "index.js",
+  "author": "s@sry.dev",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "zip": "zip -r fiUpdateNetSuite.zip ."
+  }
+}
